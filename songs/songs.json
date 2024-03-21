@@ -1,0 +1,26 @@
+{
+    "songs": [
+      {
+        "song_id": "1",
+        "title": "Dream On",
+        "author": "Aerosmith",
+        "lyrics": "Every time I look in the mirror, all these lines on my face getting clearer...",
+        "thumbnail": "Dream.png"
+      },
+      {
+        "song_id": "2",
+        "title": "Bohemian Rhapsody",
+        "author": "Queen",
+        "lyrics": "Is this the real life? Is this just fantasy?...",
+        "thumbnail": "Bohemian.png"
+      },
+      {
+        "song_id": "3",
+        "title": "Hotel California",
+        "author": "Eagles",
+        "lyrics": "On a dark desert highway, cool wind in my hair...",
+        "thumbnail": "Hotel.png"
+      }
+    ]
+  }
+  
